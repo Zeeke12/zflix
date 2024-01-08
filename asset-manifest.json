@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zflix/static/css/main.ba04fdce.css",
+    "main.js": "/zflix/static/js/main.bf1858f6.js",
+    "index.html": "/zflix/index.html",
+    "main.ba04fdce.css.map": "/zflix/static/css/main.ba04fdce.css.map",
+    "main.bf1858f6.js.map": "/zflix/static/js/main.bf1858f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba04fdce.css",
+    "static/js/main.bf1858f6.js"
+  ]
+}
